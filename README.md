@@ -16,4 +16,4 @@
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDas6969/Releases/Corvus-Gapps-v5.0/total.svg)](https://github.com/BishalDas6969/Releases/releases)
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDass6969/Releases//total.svg)](https://github.com/BishalDas6969/Releases/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDass6969/Releases/XT-V2_Gapps/total.svg)](https://github.com/BishalDas6969/Releases/releases)

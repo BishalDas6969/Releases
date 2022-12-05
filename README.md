@@ -17,3 +17,5 @@
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDas6969/Releases/Corvus-Gapps-v5.0/total.svg)](https://github.com/BishalDas6969/Releases/releases)
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDas6969/Releases/XT-V2_Gapps/total.svg)](https://github.com/BishalDas6969/Releases/releases)
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDas6969/Releases/Awaken-2.10/total.svg)](https://github.com/BishalDas6969/Releases/releases)

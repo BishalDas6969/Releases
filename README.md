@@ -21,3 +21,6 @@
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDas6969/Releases/Awaken-2.10/total.svg)](https://github.com/BishalDas6969/Releases/releases)
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDas6969/Releases/Cherish-4.2/total.svg)](https://github.com/BishalDas6969/Releases/releases)
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDas6969/Releases/Cherish-v4.2/total.svg)](https://github.com/BishalDas6969/Releases/releases)
+

@@ -22,4 +22,4 @@
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDas6969/Releases/RICE-10.2/total.svg)](https://github.com/BishalDas6969/Releases/releases)
 
-
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDas6969/Releases/Cherish-4.5/total.svg)](https://github.com/BishalDas6969/Releases/releases)

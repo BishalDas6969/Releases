@@ -24,6 +24,7 @@
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDas6969/Releases/Cherish-4.5/total.svg)](https://github.com/BishalDas6969/Releases/releases)
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDas6969/Releases/Cherish-4.6/total.svg)](https://github.com/BishalDas6969/Releases/releases) 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDas6969/Releases/Cherish-4.6/total.svg)](https://github.com/BishalDas6969/Releases/releases)
+
 
 

@@ -28,4 +28,5 @@
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDas6969/Releases/Calyx-4.7.6/total.svg)](https://github.com/BishalDas6969/Releases/releases)
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDas6969/Releases/SuperiorOS-04092023/total.svg)](https://github.com/BishalDas6969/Releases/releases)
 

@@ -35,3 +35,5 @@
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDas6969/Releases/CherishOS-4.7/total.svg)](https://github.com/BishalDas6969/Releases/releases)
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDas6969/Releases/Cherish-4.7.5/total.svg)](https://github.com/BishalDas6969/Releases/releases)
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/BishalDas6969/Releases/And-15/total.svg)](https://github.com/BishalDas6969/Releases/releases)
